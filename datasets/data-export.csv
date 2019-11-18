@@ -1,0 +1,15 @@
+# ----------------------------------------
+# События
+# ----------------------------------------
+Название события,Количество,Пользователи,Отметить как конверсию
+app_clear_data,86,42,false
+app_exception,2710,258,false
+app_remove,58,58,false
+first_open,78,78,true
+notification_dismiss,14108,255,false
+notification_foreground,3300,256,false
+notification_open,3957,236,false
+notification_receive,27278,301,false
+os_update,2,2,false
+screen_view,504137,392,false
+session_start,23830,385,false
